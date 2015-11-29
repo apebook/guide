@@ -4,6 +4,8 @@ apebook 提供了 [gitbook.com](www.gitbook.com) 类似的云端图书托管能�
 
 ![http://a.apebook.org/flow.png](http://a.apebook.org/flow.png)
 
+apebook 的图书强依赖于 git 版本控制工具与 github 服务，使用的同学需要具备 git 基础。
+
 ## apebook.org 与 gitbook.com 区别
  
 apebook.org 提供的能力与 gitbook.com 基本类似，为什么我还要花大力气开发个 apebook.org 呢？
