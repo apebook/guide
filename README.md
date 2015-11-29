@@ -1,4 +1,4 @@
-# guide
+# 介绍
 
 apebook 提供了 [gitbook.com](www.gitbook.com) 类似的云端图书托管能力，图书基于广受欢迎的 gitbook 工具，作者只需要专注于 markdown 章节的编写，使用 github 追踪图书更新与多人协作，图书的渲染与访问、分享交给 apebook 即可。
 
